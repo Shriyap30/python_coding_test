@@ -20,7 +20,7 @@ Windows: venv\Scripts\activate
 5. Install the required packages:
 pip install selenium pytest webdriver-manager
 6.Run tests using:
-6. pytest
+  pytest
 
 ## Test Cases
 1. test_navigate_products: Verifies the homepage and navigates to products menu
