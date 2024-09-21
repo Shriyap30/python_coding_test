@@ -19,6 +19,7 @@ This project demonstrates how to set up a Selenium project using Python and Pyte
 Windows: venv\Scripts\activate
 5. Install the required packages:
 pip install selenium pytest webdriver-manager
+
 6.Run tests using:
   pytest
 
