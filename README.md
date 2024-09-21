@@ -23,7 +23,7 @@ pip install selenium pytest webdriver-manager
 6. pytest
 
 ## Test Cases
-test_navigate_products: Verifies the homepage and navigates to products menu
-test_web_accessibility_visible: Scrolls page & verifies text on footer
-test_navigate_property_management: Interacts with Property Management
-est_interact_with_watch_demo_form: Validates title and inputs in one field
+1. test_navigate_products: Verifies the homepage and navigates to products menu
+2. test_web_accessibility_visible: Scrolls page & verifies text on footer
+3. test_navigate_property_management: Interacts with Property Management
+4. test_interact_with_watch_demo_form: Validates title and inputs in one field
